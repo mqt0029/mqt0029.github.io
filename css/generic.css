@@ -1,10 +1,27 @@
 .header {
     text-align: center;
-    color: #50fa7b;
+    color: #ff79c6;
     font-size: 40px;
-    line-height: 150%;
+    /* line-height: 150%; */
+}
+
+.favicons {
+    color: #50fa7b;
+    font-size: medium;
+    text-align: center;
+    letter-spacing: 30px;
+    /* display: none; */
 }
 
 body {
     background-color: #282a36;
+}
+
+a { 
+    color: inherit;
+    transition: 0.1s; 
+}
+
+a:hover { 
+    color:#ff79c6; 
 }
