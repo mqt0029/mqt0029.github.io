@@ -1,16 +1,30 @@
 .header {
     text-align: center;
     color: #ff79c6;
-    font-size: 40px;
+    font-size: 30px;
     /* line-height: 150%; */
 }
 
 .favicons {
     color: #50fa7b;
-    font-size: medium;
+    font-size: 10px;
     text-align: center;
-    letter-spacing: 30px;
+    letter-spacing: 10px;
     /* display: none; */
+}
+
+h1.divider {
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    color: #f8f8f2;
+}
+
+p.centering {
+    text-align: center;
+    font-size: 30px;
 }
 
 body {
@@ -24,4 +38,16 @@ a {
 
 a:hover { 
     color:#ff79c6; 
+}
+
+.column {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
