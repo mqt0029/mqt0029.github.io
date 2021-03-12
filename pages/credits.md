@@ -10,4 +10,4 @@ Again, **thank you**!
 
 <!-- {% include image.html url="/assets/images/logos/logo-ros.svg" description="My cat, Robert Downey Jr." %} -->
 
-<!-- *<sub><sup><sub><sup>i am so sorry i will update this soon...</sup></sub></sup></sub>* -->
+*<sub><sup><sub><sup>i am so sorry i will update this soon...</sup></sub></sup></sub>*
