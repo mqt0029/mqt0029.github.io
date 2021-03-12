@@ -6,7 +6,7 @@ classes: wide
 
 To all the kind people on the internet for making these stuff and making them available for the
 public. This page is dedicated to all the resources I used to make this somewhat decent website.
-Again, **thank you**!
+Again, **thank you**! ❤️
 
 <!-- {% include image.html url="/assets/images/logos/logo-ros.svg" description="My cat, Robert Downey Jr." %} -->
 
