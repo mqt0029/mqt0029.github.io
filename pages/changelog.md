@@ -8,7 +8,9 @@ layout: posts
 * Version 1.00-alpha (2021 Mar 12)
   * Major theme/layout update
   * Blog section is under maintenance
-  * More pretty stuff planned :unicorn:
+  * Fixed emoji rendering 😎
+  * Fixed Mathjax LaTeX rendering 
+  * More pretty stuff planned 🦄
 * Version 0.02-alpha (2021 Feb 17)
   * Added Kaggle and Blog button
   * Added Kaggle Link and Blog page
