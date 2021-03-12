@@ -5,7 +5,7 @@ date: 2021-03-12
 show_date: true
 layout: posts
 ---
-* Version 1.00-alpha (2021 Mar 12)
+* Version 1.00-alpha (2021 Mar 12) 🎉
   * Major theme/layout update
   * Blog section is under maintenance
   * Fixed emoji rendering 😎
